@@ -23,6 +23,9 @@ _italic_.
 
 ## working with images
 
+Чтобы вставить изображение в текст нужно написать следующее:
+![alternative text](little_dog.jpeg)
+
 ## links
 
 ## working with tables
